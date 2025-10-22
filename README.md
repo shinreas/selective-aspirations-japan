@@ -1,6 +1,8 @@
 # selective-aspirations-japan
 Replication package for Gendered Aspirations for Selective University in Japan
 
+Versions of paper as of April 2025 (full length) and October 2025 (short) are included for reference as data is not uploaded in this repository.
+
 **1. data** 
 
 Dataset requestable from the Social Science Japan Data Archive, made available by the Center for Social Research and Data Archives under the Institute of Social Science at the University of Tokyo. Not included in this repository. Dataset can be identified with the survey code SSJDA1571, titled "子どもの生活と学びに関する親子調査　Wave1～7，2015-2021"
